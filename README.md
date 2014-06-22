@@ -1,3 +1,8 @@
+
+this is a copy of [this repository](https://github.com/hexagon5un/AVR-Programming) by the book's author. I have just changed stuff to work on an atmega88 mcu instead of an atmega168.
+
+# ORIGINAL README
+
 Code and Examples from "Make: AVR Programming"
 ==============================================
 
